@@ -9,4 +9,3 @@ st.title("🏠 House Price Prediction")
 st.write("Enter house details to predict the price")
 
 st.success("Model loaded successfully!")
-
