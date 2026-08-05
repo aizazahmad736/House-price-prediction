@@ -1,24 +1,12 @@
-# import streamlit as st
-# import joblib
-
-# # Load model
-# model = joblib.load("house_price_model.pkl")
-
-# st.title("🏠 House Price Prediction")
-
-# st.write("Enter house details to predict the price")
-
-# st.success("Model loaded successfully!")
-
+import streamlit as st
 import joblib
 
-# Load trained model
+# Load model
 model = joblib.load("house_price_model.pkl")
 
+st.title("🏠 House Price Prediction")
 
-def predict_price(features):
-    prediction = model.predict([features])
-    return prediction[0]
+st.write("Enter house details to predict the price")
 
+st.success("Model loaded successfully!")
 
-print("Model loaded successfully")
