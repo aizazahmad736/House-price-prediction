@@ -7,6 +7,9 @@ The project uses **Python, Pandas, Scikit-learn, Random Forest Regression, and S
 ---
 <img width="902" height="214" alt="111" src="https://github.com/user-attachments/assets/33a34fe7-ca3f-4374-aa13-a849363aec59" />
 
+<img width="877" height="255" alt="222" src="https://github.com/user-attachments/assets/3bdf805d-63fb-4e91-b2f6-b1308aa230c5" />
+
+
 ## 📌 Project Overview
 
 House prices can vary significantly depending on factors such as property size, location, number of bedrooms, construction status, and other characteristics.
