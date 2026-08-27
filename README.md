@@ -5,6 +5,7 @@ A machine learning web application that predicts house prices based on property-
 The project uses **Python, Pandas, Scikit-learn, Random Forest Regression, and Streamlit** to build and deploy an interactive house price prediction system.
 
 ---
+<img width="902" height="214" alt="111" src="https://github.com/user-attachments/assets/33a34fe7-ca3f-4374-aa13-a849363aec59" />
 
 ## 📌 Project Overview
 
