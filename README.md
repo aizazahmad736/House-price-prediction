@@ -9,6 +9,9 @@ The project uses **Python, Pandas, Scikit-learn, Random Forest Regression, and S
 
 <img width="877" height="255" alt="222" src="https://github.com/user-attachments/assets/3bdf805d-63fb-4e91-b2f6-b1308aa230c5" />
 
+<img width="893" height="314" alt="333" src="https://github.com/user-attachments/assets/82a42243-bc02-45e1-b6b4-d56468971987" />
+
+
 
 ## 📌 Project Overview
 
