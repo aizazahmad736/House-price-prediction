@@ -1,6 +1,6 @@
 # 🏠 House Price Prediction project
 
-A machine learning web application that predicts house prices based on property-related features such as location, BHK, area, construction status, and resale information.
+A machine learning web application that predicts house prices based on property-related features such as location, BHK, area, construction and estimated price,status, and resale information.
 
 The project uses **Python, Pandas, Scikit-learn, Random Forest Regression, and Streamlit** to build and deploy an interactive house price prediction system.
 
