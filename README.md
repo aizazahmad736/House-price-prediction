@@ -1,4 +1,4 @@
-# 🏠 House Price Prediction
+# 🏠 House Price Prediction project
 
 A machine learning web application that predicts house prices based on property-related features such as location, BHK, area, construction status, and resale information.
 
